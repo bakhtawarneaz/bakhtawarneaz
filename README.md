@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [ORDIFY – WhatsApp-Based Order Automation & Engagement System](https://shopify-portal.its.com.pk/)
 
-- 👨‍💻 All of my projects are available at [Detailed project links are available in my CV.](Detailed project links are available in my CV.)
+- 👨‍💻 Detailed project links are available in my CV
 
-- 📝 I regularly write articles on [Currently preparing technical blogs on Web Development, WordPress, Shopify, and SaaS solutions.](Currently preparing technical blogs on Web Development, WordPress, Shopify, and SaaS solutions.)
+- 📝 Currently preparing technical blogs on Web Development, WordPress, Shopify, and SaaS solutions.
 
 - 💬 Ask me about <br>  **Senior Software Engineer with over 6 years of experience in designing and developing scalable, highperformance web applications and user-centric digital solutions. I possess strong expertise in frontend development using React.js and Next.js, combined with backend engineering using Node.js with Fastify and Express, enabling me to build efficient, secure, and production-ready systems. My experience includes database design and management with PostgreSQL, custom website development, advanced WordPress and WooCommerce solutions, and WordPress plugin development tailored to complex business requirements. I also specialize in Shopify development, including custom theme development, private/public app integrations, and e-commerce optimization to enhance performance and conversion rates. With a strong focus on clean architecture, performance, and maintainability, I thrive in fast-paced agency environments, collaborating closely with stakeholders to convert ideas and design concepts into responsive, visually compelling, and high-performing applications. I am committed to continuous learning, staying current with evolving technologies, and delivering solutions that align with both business goals and exceptional user experience. Driven by problem-solving and innovation, I am eager to contribute my skills to a dynamic team and take on new challenges that push technical excellence.**
 
