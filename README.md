@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhtawarneaz&label=Profile%20views&color=0e75b6&style=flat" alt="bakhtawarneaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakhtawarneaz" alt="bakhtawarneaz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I’m currently working on [WhatsApp Business Solution](https://waba-whatsapp.its.com.pk/)
 
@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakhtawarneaz&show_icons=true&locale=en&layout=compact" alt="bakhtawarneaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtawarneaz&" alt="bakhtawarneaz" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtawarneaz&" alt="bakhtawarneaz" /></p> -->
