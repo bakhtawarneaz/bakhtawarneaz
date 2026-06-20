@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bakhtawar Niaz</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Senior SWE @ Intellexal · Full-stack (Node.js/React) · Shopify + WhatsApp automation · SaaS builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhtawarneaz&label=Profile%20views&color=0e75b6&style=flat" alt="bakhtawarneaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
-- 🔭 I’m currently working on [WhatsApp Business Solution](https://waba-whatsapp.its.com.pk/)
-
-- 🌱 I’m currently learning **Phython, NestJS,**
 
 - 👯 I’m looking to collaborate on [Customer Verification Application](https://cva.its.com.pk/)
 
