@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Customer Verification Application](https://cva.its.com.pk/)
 
-- 🤝 I’m looking for help with [NOTIFY – WhatsApp-Based Order Automation & Engagement System]((https://notify-app.its.com.pk:5080/login))
+- 🤝 I’m looking for help with [NOTIFY – WhatsApp-Based Order Automation & Engagement System](https://notify-app.its.com.pk:5080/login)
 
 - 👨‍💻 Detailed project links are available in my CV  <a href="https://drive.google.com/file/d/1uWSyCw1riUlVzvqaae07d0UDqGLpa9B0/view" target="blank"> Link </a>
 
