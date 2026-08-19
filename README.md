@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [NOTIFY – WhatsApp-Based Order Automation & Engagement System](https://notify-app.its.com.pk:5080/login)
 
-- 👨‍💻 Detailed project links are available in my CV  <a href="https://drive.google.com/file/d/1uWSyCw1riUlVzvqaae07d0UDqGLpa9B0/view" target="blank"> Link </a>
+- 🤝 Sendly – [Shopify WhatsApp Order Notification App](https://apps.shopify.com/sendly)
 
 - 📫 How to reach me **bakhtawarneaz@gmail.com**
 
